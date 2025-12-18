@@ -1,0 +1,38 @@
+body {
+    background-color: lightyellow;
+    color: red;
+    font-size: 20px;}
+h1{color: purple;
+    background-color: lightyellow;
+    font-family: "Trebuchet MS", "Segoe UI", sans-serif;
+    font-size: 32px;
+    letter-spacing: 2px;
+    text-align: center;
+    padding: 10px;}
+h2, h3 {
+    color: red;
+    background-color: lightyellow;
+    font-family: "Trebuchet MS", "Segoe UI", sans-serif;
+    font-size: 32px;
+    letter-spacing: 2px;
+    text-align: center;
+    padding: 10px;}
+p {
+    font-size: 20px;
+	background-color: lightyellow;
+    line-height: 1.6;}
+ul {
+    list-style-type: none;
+    padding: 10px;}
+li {
+    margin: 15px 0;}
+a { text-decoration: none;
+    color: black;
+    font-size: 22px;
+    font-weight: bold;
+    display: block;
+    padding: 8px;
+    border-radius: 6px;}
+a:hover {
+    background-color: #ffe680;
+    color: darkblue;}
